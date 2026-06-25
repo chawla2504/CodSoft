@@ -1,83 +1,83 @@
-# AI-Powered Developer Project Recommendation System
+# CodSoft Artificial Intelligence Internship
 
-## Overview
+This repository contains the projects completed during my Artificial Intelligence Internship at CodSoft. The internship provided hands-on experience in applying AI concepts across Recommendation Systems, Game AI, and Computer Vision using Python and industry-standard libraries.
 
-This project is a content-based recommendation system that suggests software projects based on a user's interests and skills. It uses Natural Language Processing (NLP) techniques to compare user input with project descriptions and recommend the most relevant projects.
+## Projects
 
-## Features
+### Task 3 - Tic-Tac-Toe AI
 
-- Recommends projects based on user interests
-- Uses TF-IDF Vectorization for text representation
-- Uses Cosine Similarity for recommendation generation
-- Interactive command-line interface
-- Supports multiple searches until the user exits
+Developed an intelligent Tic-Tac-Toe game using the Minimax Algorithm. The AI evaluates possible game states and selects optimal moves to maximize its chances of winning.
+
+**Technologies Used:**
+
+* Python
+* Minimax Algorithm
+
+**Key Concepts:**
+
+* Artificial Intelligence
+* Decision Making
+* Adversarial Search
+* Game AI
+
+---
+
+### Task 4 - Project Recommendation System
+
+Built an AI-powered recommendation system that suggests software development projects based on user interests. The system uses Natural Language Processing techniques to analyze project descriptions and generate relevant recommendations.
+
+**Technologies Used:**
+
+* Python
+* Pandas
+* Scikit-Learn
+
+**Key Concepts:**
+
+* Recommendation Systems
+* TF-IDF Vectorization
+* Cosine Similarity
+* Natural Language Processing (NLP)
+
+---
+
+### Task 5 - Face Detection System
+
+Developed a real-time face detection application using OpenCV and Haar Cascade Classifiers. The system detects and labels human faces from a live webcam feed.
+
+**Technologies Used:**
+
+* Python
+* OpenCV
+
+**Key Concepts:**
+
+* Computer Vision
+* Face Detection
+* Image Processing
+* Haar Cascade Classifier
+
+---
 
 ## Technologies Used
 
-- Python
-- Pandas
-- Scikit-Learn
-- NLP
-- TF-IDF Vectorization
-- Cosine Similarity
+* Python
+* Pandas
+* Scikit-Learn
+* OpenCV
 
-## Project Structure
+## Skills Gained
 
-```
-AI_Project_Recommendation_System/
-│
-├── projects.csv
-├── recommendation.py
-├── requirements.txt
-└── README.md
-```
-
-## Installation
-
-1. Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the project
-
-```bash
-python recommendation.py
-```
-
-## Example
-
-Input:
-
-```
-python nlp
-```
-
-Output:
-
-```
-Recommended Projects:
-
-- Resume Analyzer
-- Chatbot
-- Sentiment Analysis Tool
-```
-
-## How It Works
-
-1. Project descriptions are loaded from the dataset.
-2. TF-IDF Vectorization converts text into numerical vectors.
-3. User interests are transformed into vectors.
-4. Cosine Similarity measures the similarity between user interests and project descriptions.
-5. The most relevant projects are recommended.
+* Artificial Intelligence Fundamentals
+* Natural Language Processing (NLP)
+* Recommendation Systems
+* Computer Vision
+* Game AI
+* Problem Solving
+* Python Programming
 
 ## Author
 
-Developed as part of the CodSoft Artificial Intelligence Internship.
+**Samridhi Chawla**
+
+Artificial Intelligence Intern – CodSoft
