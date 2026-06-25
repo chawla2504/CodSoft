@@ -1,0 +1,21 @@
+project_name,description
+Chatbot,Python NLP conversational assistant for answering user queries
+Resume Analyzer,Python NLP tool for resume screening and skill extraction
+Face Detection System,Computer vision project using OpenCV for face recognition
+Image Caption Generator,Deep learning project generating captions from images
+Sentiment Analysis Tool,NLP project for classifying positive and negative reviews
+Food Delivery App,Full stack MERN application for food ordering and delivery
+Event Management System,Web application for event creation and registration
+Task Management App,Productivity application for task tracking and scheduling
+E Commerce Website,MERN based online shopping platform
+Blog Platform,Web application for creating and managing blogs
+Hotel Booking System,Java and MySQL based room booking application
+Library Management System,Java system for managing books and issue records
+Bank Management System,Java application for banking operations
+Expense Tracker,Python application for tracking expenses and budgets
+Password Manager,Python tool for securely storing passwords
+Weather App,Python application using APIs for weather forecasting
+URL Shortener,Backend application for generating short URLs
+Job Portal,Full stack platform for job seekers and recruiters
+Learning Management System,Educational platform for online learning
+Online Quiz Platform,Web application for conducting quizzes
